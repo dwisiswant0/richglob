@@ -1,0 +1,4 @@
+goos: linux
+goarch: amd64
+pkg: benchmarks
+cpu: 11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz
